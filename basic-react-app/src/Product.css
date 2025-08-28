@@ -1,0 +1,15 @@
+.Product{
+    height: 200px;
+    width: 200px;
+    border: 2px,solid,black;
+    border-radius: 10px;
+    margin-left: 15px;
+    padding: 1rem ;
+
+}
+h3{
+    color: red;
+}
+h5{
+    color: seagreen;
+}
